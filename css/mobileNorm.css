@@ -1,0 +1,310 @@
+.topHead {
+	display: none;
+}
+.normNav {
+	display: none;
+}
+.mTopHead {
+    display: block;
+    position: relative;
+    z-index: 5;
+    background-color: darkred;
+}
+.normName {
+    padding: 2%;
+}
+.topHeadL {
+    font-size: 120%;
+    margin: 0;
+}
+.menuOptions {
+    width: 21%;
+    padding: 2%;
+    color: white;
+    font-weight: 400;
+}
+.togMenu {
+	cursor: pointer;
+}
+#curFont1 {
+}
+#curFont2 {
+    display: none;
+}
+.menuDiv {
+    background-color: white;
+    display: none;
+    position: absolute;
+    width: 100%;
+}
+.majorMenu {
+    border-bottom: 1px solid grey;
+}
+.eachSpac {
+    display: inline-block;
+    width: 49%;
+    padding: 30px;
+    color: grey;
+    font-weight: 200;
+    text-align: center;
+}
+.eachSpac:hover {
+	background-color: darkred;
+	color: white;
+}
+.rightBr {
+    border-right: 1px solid grey;
+}
+.linkText {
+	color: grey;
+    font-weight: 200;
+}
+.linkText:hover {
+	color: darkred;
+}
+.ourMenuT {
+    padding: 15px;
+}
+.ourMenuB {
+    padding-bottom: 15px;
+}
+.ourLinks {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+}
+.ourLinks2 {
+	display: inline-block;
+    width: 49%;
+    text-align: center;
+}
+#normLogo {
+    width: 87%;
+    margin: 32% auto;
+    padding-right: 15%;
+    z-index: 1;
+}
+#exploreLink {
+    width: 30%;
+    color: #4fc54f;
+    font-size: 80%;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    left: 35%;
+}
+.topic01 {
+    width: 50%;
+    margin: auto;
+    font-size: 160%;
+    font-weight: 700;
+    margin-bottom: 3px;
+    text-align: center;
+}
+.writeUp01 {
+    width: 50%;
+    margin: 0 auto 2.5%;
+    text-align: center;
+    line-height: 1.4;
+    font-size: 90%;
+}
+.newsCard {
+    width: 100%;
+    margin: 10px 0.5%;
+    cursor: pointer;
+    box-shadow: 3px 3px 3px #949191;
+    height: auto;
+    background-color: white;
+    display: block;
+}
+.newsImg {
+    width: 100%;
+    height: auto;
+    display: none;
+}
+.NDtype {
+    color: black;
+    font-size: medium;
+    font-weight: 500;
+    margin-bottom: 4px;
+}
+.NDcontent {
+    max-height: 75px;
+    color: darkred;
+}
+.midSec {
+    margin: 0;
+}
+#news01 {
+    width: 100%;
+    display: inline-block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    height: 180px;
+    margin-right: 1%;
+}
+.newsDesc {
+    color: #5f5d5d;
+    font-size: 85%;
+}
+.News01Desc {
+    margin-top: 112px;
+    color: white;
+    height: 69px;
+    padding: 0 15px;
+    background-image: linear-gradient(transparent, black);
+}
+.NDtype01 {
+    color: black;
+    font-size: 135%;
+    padding-bottom: 7px;
+    font-weight: 600;
+}
+.centerText {
+    width: 30%;
+    margin: 24px auto 0;
+    text-align: center;
+    font-size: 90%;
+}
+.eventCard {
+    width: 100%;
+    height: auto;
+    margin: 10px 0.5%;
+    background-color: white;
+    position: relative;
+    display: block;
+    float: none;
+}
+.eventDate {
+    position: absolute;
+    background-color: #9a8c88;
+    padding: 8px;
+    margin: 10px;
+    color: white;
+    float: left;
+    font-size: 77%;
+    top: 6px;
+    height: 51px;
+}
+.EDmonth {
+    font-size: 110%;
+}
+.eventDesc {
+    font-size: 88%;
+    width: 84%;
+    float: right;
+    margin-top: 5px;
+    padding: 10px 2px;
+}
+.NDtype {
+    color: black;
+    font-size: 97%;
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+.mEventTopic {
+    color: #4c4b4b;
+    font-size: 95%;
+}
+.Etime {
+    margin-top: 4px;
+    font-size: 80%;
+    color: grey;
+}
+.writeUp01 {
+	width: 76%;
+}
+.academicSec {
+    width: 100%;
+    float: none;
+    padding-right: 0;
+}
+.AcademicImg {
+    width: 100%;
+    height: 190px;
+}
+.magT {
+    margin-top: 10px;
+}
+.educate {
+    margin: 5px 0 12px;
+}
+.schoolType {
+    margin-bottom: 15px;
+    display: inline-block;
+    font-size: 95%;
+}
+.moreAcademi {
+    margin-top: 6px;
+}
+.centerText {
+    width: 50%;
+    margin: 24px auto 0;
+    text-align: center;
+    font-size: 90%;
+}
+.inspire {
+    height: 290px;
+}
+.CampusSecL {
+    width: 100%;
+    background-color: white;
+    margin: 10px 0;
+    float: none;
+    height: 100px;
+}
+.CampusSecR {
+    width: 100%;
+    background-color: white;
+    margin: 10px 0;
+    float: none;
+    height: 100px;
+}
+.mHide {
+	display: none;
+}
+.admissionSec {
+    width: 100%;
+    height: 200px;
+    margin-bottom: 15px;
+}
+.campusImg {
+    width: 50%;
+    float: right;
+}
+.edgeImg {
+    width: 10%;
+    display: none;
+}
+.aboutSec {
+    border-top: 1px solid white;
+    padding: 13px 0;
+    font-size: 80%;
+}
+.AStext {
+    font-size: 140%;
+}
+.ASMtop {
+    margin-top: 35px;
+}
+.footLink {
+    width: 33%;
+    float: left;
+    padding-left: 2px;
+    text-align: center;
+    font-size: 85%;
+}
+.mHide {
+	display: none;
+}
+.FFimg {
+	display: none;
+}
+.BBorder {
+    margin-top: 13px;
+    font-size: 78%;
+}
+.fontSec {
+    margin: 10px 0;
+}

@@ -1,0 +1,248 @@
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	font-family: sans-serif;
+}
+*, ::before, ::after {
+	box-sizing: inherit;
+	-webkit-box-sizing: inherit;
+	-moz-box-sizing: inherit;
+}
+a {
+	text-decoration: none;
+}
+input {
+    border: none;
+    outline: none;
+}
+ul {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+}
+.floatL {
+	float: left;
+}
+.floatR {
+	float: right;
+}
+.clearing {
+	clear: both;
+}
+.imageCover {
+    width: 100%;
+    height: 100%;
+}
+.THBg {
+    background-color: darkred;
+    color: white;
+    padding: 1.5% 5%;
+}
+.BText01 {
+    font-size: 200%;
+    border-right: 1px solid white;
+    padding-right: 15px;
+    margin-right: 15px;
+    font-weight: 600;
+    display: inline-block;
+    color: white;
+}
+.BText02 {
+    font-size: 150%;
+    margin-top: 10px;
+}
+.SIn {
+    margin-top: 6px;
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+.searchFont {
+    color: gray;
+    padding-right: 5px;
+}
+.FPLSec {
+    background-color: #fdf5dd66;
+}
+.THLSec {
+    display: inline-block;
+    width: 19.5%;
+    text-align: center;
+    padding: 8px 0;
+    color: #6d6c6ce0;
+    cursor: pointer;
+}
+.THLSec:hover {
+    border-bottom: 2px solid darkred;
+}
+.MPage {
+    padding: 3% 6%;
+}
+.TICon {
+    height: 360px;
+}
+.MBLS1 {
+    width: 25%;
+    margin-top: 30px;
+}
+.MBLS2 {
+    width: 50%;
+    margin-top: 30px;
+}
+.LSMSec {
+    margin-bottom: 20px;
+}
+.LSIcon {
+    font-size: 210%;
+    width: 20%;
+    color: #f9edc9ab;
+}
+.RSICon {
+    width: 80%;
+    padding-right: 15px;
+}
+.BText03 {
+    font-size: 130%;
+    margin-bottom: 5px;
+    color: #921e1ede;
+}
+.SText01 {
+    margin-bottom: 3px;
+    font-size: 85%;
+    color: #565555;
+}
+.BText04 {
+    margin-bottom: 15px;
+    font-size: 150%;
+    color: #961e1ebf;
+}
+.MPSCon {
+    border-bottom: 1px solid #e0dddd;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+.MPSICon {
+    width: 25%;
+}
+.MPCWSec {
+    width: 70%;
+    padding: 0 20px 0 5px;
+}
+.BText05 {
+    font-size: 125%;
+    color: #8e0e0edb;
+    margin-bottom: 8px;
+}
+.SText02 {
+    font-size: 78%;
+    color: gray;
+    margin-bottom: 8px;
+}
+.MWUp {
+    font-size: 90%;
+    color: gray;
+    line-height: 1.35;
+}
+.RSCBg {
+    background-color: #fbf9f4;
+    padding: 25px;
+    border-radius: 25px;
+    margin-bottom: 20px;
+}
+.BText06 {
+    font-size: 125%;
+    color: #901c1ccf;
+    margin-bottom: 8px;
+}
+.SText03 {
+    font-size: 90%;
+    color: #616060;
+    margin-bottom: 8px;
+}
+.LSCon {
+    margin-left: 30px;
+    font-size: 90%;
+    color: #696868;
+    list-style: initial;
+    text-decoration: underline;
+    line-height: 1.4;
+}
+.RSFIcon {
+    width: 25%;
+    font-size: 250%;
+    text-align: center;
+    margin-left: 3%;
+    color: #f9edc9ab;
+}
+.RRSWUp {
+    width: 65%;
+}
+.RSLSec {
+    line-height: 1.7;
+    font-size: 90%;
+    list-style: initial;
+    color: #5a5a5a;
+    text-decoration: underline;
+}
+.LText {
+    font-size: 80%;
+    color: #bbbaba;
+    padding: 5px 0;
+}
+
+.BBorder {
+    border-top: 1px solid #2d2c2c;
+    background-color: #484747;
+    padding-bottom: 10px;
+
+}
+.fontSec {
+    color: white;
+    text-align: center;
+    margin: 15px 0;
+}
+.SText {
+    font-size: 150%;
+    padding-left: 2%;
+    color: #b9b8b8;
+    font-weight: 700;
+}
+.Mright {
+    margin-right: 10%;
+}
+.socialFonts {
+    font-size: 120%;
+    padding: 5px;
+}
+.FPOth {
+    padding: 3% 6%;
+    display: none;
+}
+.MCLSec {
+    width: 65%;
+}
+.FPBText01 {
+    font-size: 180%;
+    margin-bottom: 15px;
+    color: #b32a2acc;
+}
+.FFPMImgs {
+    margin-bottom: 30px;
+}
+.FPDesc {
+    margin-bottom: 15px;
+}
+.FPBText02 {
+    font-size: 150%;
+    margin-bottom: 6px;
+    color: #961c1ccc;
+}
+.FPSText01 {
+    color: gray;
+}
+.ADFPSec {
+    width: 30%;
+}

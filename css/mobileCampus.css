@@ -1,0 +1,63 @@
+.THead {
+	display: none;
+}
+.MSec {
+    padding-top: 0;
+}
+.BText01 {
+    margin: 11px 0;
+    font-size: 140%;
+}
+.sentence01 {
+    width: 75%;
+    font-size: 105%;
+}
+.CMPICon {
+    margin: 15px 0;
+    height: 325px;
+}
+.TABBorder {
+    padding: 10px 2%;
+    margin-bottom: 18px;
+}
+.SCRun {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+}
+.HTSec {
+    font-size: 112%;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+.sentence02 {
+    font-size: 93%;
+}
+.CMLDivsL {
+    width: 100%;
+    margin-right: 2%;
+}
+.RCMLDivsR {
+    width: 100%;
+}
+.CMLBText01 {
+    margin: 8px 0;
+    font-size: 115%;
+}
+.CMLSText01 {
+    font-size: 93%;
+    line-height: 1.1;
+    color: gray;
+    font-weight: 300;
+    margin-bottom: 9px;
+}
+.CLOthLin {
+    margin-bottom: 10px;
+    display: inline-block;
+}
+.mHide {
+	display: none;
+}
+.CMPLDSecs {
+    padding: 0 5% 5px 5%;
+}

@@ -1,0 +1,138 @@
+body {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	font-family: sans-serif;
+}
+*, ::before, ::after {
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+.imageCover {
+	width: 100%;
+	height: 100%;
+}
+.clearing {
+	clear: both;
+}
+.floatL {
+	float: left;
+}
+.floatR {
+	float: right;
+}
+.LHead {
+    background: darkred;
+    color: white;
+    padding: 20px;
+}
+.HTitle {
+    font-size: 150%;
+    color: white;
+    text-decoration: none;
+}
+.LBText01 {
+    font-size: 114%;
+}
+.LiIntroCon {
+	width: 40%;
+}
+.RiIntroCon {
+    width: 59%;
+    padding: 15px 2% 0 0;
+}
+.LiTSecCon {
+    padding: 20px 4%;
+}
+.LBText02 {
+    font-size: 155%;
+    margin-bottom: 34px;
+    color: #b38632;
+}
+.LiLeInfo {
+    margin-bottom: 25px;
+}
+.LiFontIcon {
+    width: 15%;
+    font-size: 256%;
+    color: #a77f3591;
+}
+.LifontIc {}
+.LiAboFont {
+    width: 85%;
+}
+.LIBText03 {
+    font-size: 100%;
+    color: darkred;
+    margin-bottom: 5px;
+}
+.LiSText01 {
+    font-size: 85%;
+    color: gray;
+    margin-bottom: 8px;
+    font-weight: 200;
+}
+.LiBigInfo {
+    font-size: 142%;
+    color: #8b0000d6;
+    margin-bottom: 17px;
+}
+.LiBiInCon {
+    font-size: 95%;
+    line-height: 1.4;
+    font-weight: 300;
+    color: grey;
+}
+.LiBText04 {
+    margin-bottom: 25px;
+    font-size: 150%;
+    color: #8b0000d9;
+}
+.LiBuildCon {
+    margin-bottom: 40px;
+}
+.LiEachcon {
+    width: 45%;
+    border: 2px solid gray;
+    padding: 2%;
+}
+.LiImgCon {
+    width: 45%;
+}
+.EaLiDetail {
+    width: 50%;
+}
+.LiBText05 {
+    margin-bottom: 10px;
+    color: #94691ad1;
+    font-size: 120%;
+}
+/*courses styling*/
+.CouSec {
+    padding: 3% 6%;
+}
+.CoBText01 {
+    font-size: 130%;
+    color: #8b0000d9;
+    margin-bottom: 10px;
+}
+.Bders {
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    padding: 2px;
+    margin-bottom: 10px;
+}
+.Facult {
+    font-size: 130%;
+    margin-bottom: 10px;
+    color: #8b0000e6;
+}
+.depart {
+    line-height: 1.4;
+}
+
+
+

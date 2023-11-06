@@ -1,0 +1,106 @@
+body {
+    background-color: #eeeeee;
+}
+#TRHead {
+    background-color: darkred;
+    color: white;
+    padding: 20px;
+}
+.GBg {
+	background-color: #eeeeee;
+}
+.bigPorHead, .bigPordetail {
+    display: block;
+}
+.mPorDetail, .mPorHead {
+    display: none;
+}
+.LSPSSSec {
+    width: 20%;
+    padding: 3% 2%;
+    background-color: #eeeeee;
+}
+#SPPPic {
+    width: 100%;
+    font-size: 1000%;
+    color: #a9a9a9;
+}
+.SPSSMenu {
+    margin: 15px 0;
+    font-size: 93%;
+    color: #504e4e;
+    display: block;
+}
+.MFont {
+    margin-right: 15px;
+}
+.RSPSSSec {
+    width: 79%;
+    background-color: white;
+    padding-bottom: 20px;
+}
+.RHSPSec {
+    padding: 8px;
+    background-color: #848282;
+    margin-top: 5px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    color: white;
+    font-size: 85%;
+}
+#MSPFCon {
+    padding: 10px;
+}
+
+.CSASPFocus {
+    color: darkred;
+    font-size: 95%;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eeeeee;
+}
+.CSASPFDiv {
+    margin: 15px;
+}
+.ISPFunc {
+    width: 11%;
+    border: 1px solid darkred;
+    padding: 8px 5px;
+    border-radius: 5px;
+    margin-right: 15px;
+    font-size: 85%;
+    display: inline-block;
+}
+.WSPSCFont {
+    text-align: center;
+    font-size: 180%;
+    color: darkred;
+}
+.WSPSClick {
+    text-align: center;
+    padding-top: 8px;
+    font-size: 90%;
+    color: #848282;
+}
+.CHDSec {
+    margin-bottom: 20px;
+}
+.CHPText {
+    display: inline-block;
+    width: 17%;
+    color: #565656;
+}
+.CHPInp {
+    border: none;
+    border: 2px solid #808080a6;
+    border-radius: 7px;
+    padding: 3px;
+}
+.CHPSBtn {
+    border: none;
+    padding: 10px;
+    background-color: darkred;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #888888b0;
+    cursor: pointer;
+}

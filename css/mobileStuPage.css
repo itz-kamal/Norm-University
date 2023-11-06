@@ -1,0 +1,32 @@
+.THstudent {
+    display: none;
+}
+.navSec {
+    display: none;
+}
+.SPMcontent {
+    padding: 15px 3%;
+}
+.HTag {
+    font-size: 150%;
+    margin-bottom: 6px;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+.FS90 {
+    font-size: 88%;
+}
+.SPHead {
+    color: grey;
+    padding: 6px 0;
+}
+.SPMSec {
+    margin-top: 20px;
+}
+.GTColor {
+    color: #636161;
+}
+ul {
+    padding: 0;
+    margin: 8px;
+}

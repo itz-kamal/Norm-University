@@ -1,0 +1,64 @@
+.THead, .mHide {
+	display: none;
+}
+.MSec {
+    padding-top: 0;
+}
+.OVLContents {
+    color: white;
+    padding: 0px 10%;
+    text-align: center;
+    height: 300px;
+}
+.ABText {
+    padding: 50px 10% 20px;
+}
+.ANFacts {
+    padding: 4% 4%;
+}
+.padSec {
+    padding: 3% 4%;
+}
+..ANHTexts {
+    display: inline-block;
+    width: 49%;
+    text-align: center;
+    padding: 15px 8px;
+    font-size: 85%;
+}
+.ANCSCon {
+    padding: 20px 8px;
+    color: darkred;
+}
+.ANSmallText {
+    font-size: 85%;
+    font-weight: 200;
+}
+.ANCBtn {
+    width: 38%;
+    margin-top: 20px;
+    padding: 12px 5px;
+    border: 1px solid darkred;
+    color: darkred;
+    font-size: 90%;
+    text-align: center;
+}
+.padSec {
+    padding: 3% 2%;
+}
+.ANMWSec {
+    width: 100%;
+    background-color: #e6e3e3;
+    color: #4c4b4b;
+    margin-bottom: 15px;
+}
+.ANIHeight {
+    height: 250px;
+}
+.ANFTSec {
+    padding: 14px 8% 7px;
+}
+.ANFSText {
+    padding: 5px 8% 15px;
+    font-size: 90%;
+}

@@ -1,0 +1,102 @@
+body {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing : border-box;
+	margin: 0;
+	padding: 0;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+*, ::before, ::after {
+	box-sizing: inherit;
+	-webkit-box-sizing: inherit;
+	-moz-box-sizing: inherit;
+}
+a {
+	text-decoration: none;
+}
+.floatL {
+	float: left;
+}
+.floatR {
+	float: right;
+}
+.clearing {
+	clear: both;
+}
+.imageCover {
+    width: 100%;
+    height: 100%;
+}
+.Ssec {
+    background-color: darkred;
+    color: white;
+    width: 60%;
+    padding: 5% 4%;
+}
+.ICon {
+    width: 40%;
+    margin-bottom: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.BText01 {
+    font-size: 171%;
+    margin-bottom: 15px;
+    font-family: fantasy;
+}
+.GCStu {
+    margin-bottom: 10px;
+    color: #777676;
+    font-size: 110%;
+}
+.WMess {
+    font-size: 115%;
+    font-family: cursive;
+}
+.MCon {
+    margin-top: 15px;
+    color: #8a8989;
+}
+.CRSSec {
+    width: 40%;
+    background-color: gray;
+    padding: 5% 3%;
+    color: white;
+}
+.BText02 {
+    text-align: center;
+    font-size: 130%;
+}
+.FDSec {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.MFonts {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border: 1px solid white;
+    padding: 3%;
+    border-radius: 27px;
+    margin-right: 10px;
+    color: darkred;
+}
+.FCom {
+    margin-top: 15px;
+}
+.LIBtn {
+    width: 20%;
+    margin: 20px auto;
+    text-align: center;
+}
+.LIAn {
+    box-shadow: 5px 5px 5px #525151;
+    padding: 10px 15px;
+    background-color: darkred;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    font-size: 75%;
+    color: white;
+ }

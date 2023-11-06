@@ -1,0 +1,40 @@
+.NBText01 {
+    background-color: #505050;
+    color: white;
+    padding: 6px;
+    font-size: 116%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 15px;
+}
+.NPSec {
+    margin-bottom: 10px;
+    color: darkred;
+    font-size: 150%;
+    font-weight: 600;
+}
+.NPCSec {}
+.NHead {
+    font-size: 120%;
+}
+.NHCon {
+    margin: 10px 0;
+    width: 75%;
+    height: 50px;
+}
+.NMCon {
+    margin: 10px 0;
+    padding: 1% 45% 35% 1%;
+}
+.PBtn {
+    margin-bottom: 20px;
+    margin-top: 5px;
+    width: 10%;
+    padding: 8px 0;
+    background-color: darkred;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 3px 2px 9px #888888;
+}

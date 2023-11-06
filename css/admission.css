@@ -1,0 +1,176 @@
+body {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing : border-box;
+	margin: 0;
+	padding: 0;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+*, ::before, ::after {
+	box-sizing: inherit;
+	-webkit-box-sizing: inherit;
+	-moz-box-sizing: inherit;
+}
+a {
+	text-decoration: none;
+}
+.clearing {
+	clear: both;
+}
+.floatL {
+	float: left;
+}
+.floatR {
+	float: right;
+}
+.imageCover {
+	width: 100%;
+	height: 100%;
+}
+.THead {
+    position: fixed;
+    width: 100%;
+    box-shadow: 0px 5px 5px #c1bfbf;
+}
+.THTop {
+    background-color: darkred;
+    padding: 15px 3%;
+}
+.SLink {
+    width: 20%;
+}
+.ILink {
+    color: white;
+    font-size: 130%;
+}
+.NavLink {
+    float: right;
+    padding-top: 5px;
+}
+.MNLink {
+    padding: 0 5px;
+    color: white;
+}
+.searchFont {
+    color: white;
+}
+.ONLink {
+    padding: 10px 3%;
+    background-color: white;
+}
+.ONLSites {
+    color: black;
+    font-size: 120%;
+    padding-right: 6%;
+}
+.MSec {
+    padding-top: 100px;
+
+}
+.MSTContent {}
+.BText01 {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 220%;
+    font-weight: 700;
+}
+.sentence01 {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 130%;
+}
+.imgCon {
+    margin: 50px 0;
+}
+.TABBorder {
+    border-top: 1px solid darkgray;
+    border-bottom: 1px solid darkgray;
+    padding: 25px 2%;
+    margin-bottom: 40px;
+}
+.SCRun {
+    display: inline-block;
+    width: 33%;
+    text-align: center;
+}
+.HTSec {
+    font-size: 150%;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+.sentence02 {
+    font-size: 120%;
+}
+.BGWheat {
+    background-color: #f7f3ed;
+}
+.BGDgray {
+    background-color: #9a8c88;
+}
+.HTSMag {
+    text-align: center;
+    padding-top: 32px;
+    font-size: 190%;
+
+}
+.ASContainer {
+    padding: 20px 8% 30px;
+}
+.AMCAsideL {
+    width: 50%;
+    padding: 0 10px;
+    float: left;
+}
+.AMCAsideR {
+    width: 50%;
+    padding: 0 10px;
+    float: right;
+}
+.SHText {
+    font-size: 120%;
+    font-weight: 600;
+    margin-top: 15px;
+}
+.HTSent {
+    margin: 10px 0;
+    font-size: 90%;
+    color: #3c3a3a;
+    line-height: 1.5;
+}
+.ATIConR {
+    width: 45%;
+    margin-top: 15px;
+    height: 400px;
+    float: right;
+}
+.ATIConL {
+    width: 45%;
+    margin-top: 15px;
+    height: 400px;
+    float: left;
+}
+.FASec {
+    padding: 0 7%;
+}
+.FASContent {
+    margin: 30px 0;
+}
+.FASViewL {
+    text-align: center;
+    float: left;
+}
+.FASViewR {
+    text-align: center;
+    float: right;
+}
+.MAFAField {
+    width: 30%;
+    margin: 30px auto;
+    text-align: center;
+}
+.MAFAids {
+    background-color: darkred;
+    color: white;
+    padding: 13px 15px;
+}

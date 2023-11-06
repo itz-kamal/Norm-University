@@ -1,0 +1,83 @@
+.THstudent {
+    padding: 10px;
+    background-color: #424041;
+}
+.marginR {
+    margin-left: 50%;
+}
+.topLink {
+    color: white;
+    padding: 0 0.8%;
+}
+.navSec {
+    background-color: darkred;
+}
+.NLsec {
+    display: block;
+    width: 30%;
+    margin: 0 auto;
+    padding: 15px 0;
+}
+.NSLink {
+    border-top: 1px solid #3c3b3ba6;
+    padding: 10px 0;
+}
+.NSLref {
+    width: 13%;
+    padding: 0 4.2%;
+    color: white;
+}
+.SPMcontent {
+    padding: 50px 8%;
+}
+.HTag {
+    font-size: 180%;
+    margin-bottom: 15px;
+    letter-spacing: 1px;
+}
+.NSec {
+    width: 30%;
+}
+.SPHead {
+    color: grey;
+    padding: 10px 0;
+}
+.SPLink {
+    color: darkred;
+    padding: 6px 0;
+    width: 80%;
+    cursor: pointer;
+    display: block;
+}
+.BTLine {
+    border-bottom: 1px solid lightgray;
+}
+.NSContent {
+    width: 70%;
+}
+.FS90 {
+	font-size: 90%;
+}
+.SPImgs {
+    margin: 10px 0;
+}
+.SPMSec {
+    margin-top: 40px;
+}
+.SPBText {
+    font-size: 130%;
+}
+.GTColor {
+    color: #636161;
+}
+.SPMore {
+    list-style: inherit;
+    color: darkred;
+    width: 40%;
+    margin-left: 14px;
+    line-height: 25px;
+    cursor: pointer;
+}
+
+
+

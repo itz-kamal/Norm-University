@@ -1,0 +1,142 @@
+.abgImg {
+	background-image: url('../images/auditorium02.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+ 
+}
+.OVLContents {
+    color: white;
+    padding: 40px 26%;
+    text-align: center;
+    height: 400px;
+}
+.ABText {
+    font-size: 150%;
+    padding: 70px 10% 20px;
+    border-bottom: 1px solid white;
+    margin-bottom: 5px;
+}
+.ALSent {
+    font-size: 110%;
+    line-height: 1.5;
+    border-top: 1px solid;
+    padding-top: 30px;
+}
+.ANFacts {
+    padding: 5% 8%;
+}
+.ALText {
+    text-align: center;
+    color: darkred;
+    margin-bottom: 15px;
+}
+.AFSec {
+    width: 33%;
+    float: left;
+    text-align: center;
+    color: darkred;
+}
+.AFBText {
+    font-size: 130%;
+    padding-bottom: 5px;
+}
+.AFRest01 {
+    border: 1px solid darkred;
+    padding: 3px;
+}
+.AFRest02 {
+    border: 1px solid darkred;
+    padding: 3% 5%;
+}
+.AFRest03 {
+    border: 1px solid gray;
+    padding: 5px;
+}
+.bgCDRed {
+    background-color: #923535;
+}
+.padSec {
+    padding: 3% 8%;
+}
+.ASISec {
+    width: 45%;
+    margin: 2%;
+}
+.ASISSent {
+    width: 45%;
+    margin: 3%;
+    color: white;
+}
+.ANHText {
+    text-align: center;
+    margin-bottom: 15px;
+    color: darkred;
+}
+.ASOText {
+    margin-top: 10px;
+    font-size: 85%;
+    color: #520202;
+}
+.bgCHarsh {
+    background-color: #e8e6e6;
+}
+.bgCWhite {
+	background-color: white;
+}
+.ANHTexts {
+    display: inline-block;
+    width: 33.0%;
+    text-align: center;
+    padding: 30px 20px;
+    font-size: 110%;
+}
+.ANHTSide01 {
+    color: #6d6a6a;
+}
+.ANHTSide02 {
+    background-color: darkred;
+    color: white;
+}
+.ANHTSide03 {
+    background-color: darkblue;
+    color: white;
+}
+.ANCSCon {
+    padding: 35px 20px;
+    color: darkred;
+}
+.ANCSHead {
+    color: #772a2a;
+    font-size: 115%;
+}
+.ANSubHed {
+    font-size: 90%;
+}
+.ANSmallText {
+    font-size: 85%;
+}
+.ANCBtn {
+    width: 18%;
+    margin-top: 20px;
+    padding: 15px 5px;
+    border: 1px solid darkred;
+    color: darkred;
+    font-size: 90%;
+    text-align: center;
+}
+.ANMWSec {
+    width: 48%;
+    background-color: #e6e3e3;
+    color: #4c4b4b;
+}
+.ANIHeight {
+    height: 320px;
+}
+.ANFTSec {
+    padding: 20px 8% 10px;
+}
+.ANFSText {
+    padding: 5px 8% 25px;
+    font-size: 90%;
+}
+

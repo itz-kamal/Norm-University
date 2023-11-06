@@ -1,0 +1,67 @@
+.THDPage {
+    padding: 8px 0%;
+    text-align: center;
+    position: relative;
+}
+.THDText {
+    display: inline-block;
+    position: absolute;
+    top: 18px;
+}
+.THDImh {
+    width: 35%;
+    display: inline-block;
+    margin-left: 58px;
+}
+#DPBGImg {
+    height: 275px;
+}
+.OLHeight {
+    height: 275px;
+}
+.DPIText {
+    padding: 30% 70px 10px;
+    color: white;
+    font-size: 123%;
+    width: 85%;
+    line-height: 25px;
+}
+.DPMSec {
+    padding: 25px 3%;
+}
+.DPMTopic {
+    font-size: 120%;
+    margin-bottom: 20px;
+}
+.DPIProp {
+    width: 33%;
+    height: 180px;
+}
+.OVHeight {
+    height: 180px;
+}
+.DPTText {
+    padding-top: 30%;
+    text-align: center;
+    color: white;
+    font-size: 105%;
+}
+.DPFLink {
+    padding: 6px;
+    display: block;
+    width: 51%;
+    text-align: center;
+    margin: 10px auto;
+    font-size: 90%;
+}
+.fontSec {
+    text-align: center;
+    margin: 10px 0;
+}
+.SText {
+    font-size: 135%;
+    font-weight: 700;
+}
+.moDontFoot {
+    padding-left: 2%;
+}

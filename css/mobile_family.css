@@ -1,0 +1,72 @@
+.mHide {
+	display: none;
+}
+.BText01 {
+    font-size: 170%;
+}
+.BText02 {
+    font-size: 115%;
+    margin-top: 8px;
+}
+.SIn {
+    display: none;
+}
+.THLSec {
+    display: inline-block;
+    width: 18.5%;
+    padding: 3px 0;
+    color: #6d6c6ce0;
+    font-size: 90%;
+}
+.MPage {
+    padding: 4% 3%;
+}
+.TICon {
+    height: 250px;
+}
+.MBLS1 {
+    width: 35%;
+    margin-top: 20px;
+}
+.MBLS2 {
+    width: 65%;
+    margin-top: 20px;
+}
+.LSMSec {
+    margin-bottom: 15px;
+}
+.LSIcon {
+    font-size: 160%;
+    width: 20%;
+    color: #f9edc9ab;
+}
+.BText03 {
+    font-size: 110%;
+    margin-bottom: 5px;
+    color: #921e1ede;
+}
+.SText01 {
+    margin-bottom: 3px;
+    font-size: 80%;
+    color: #565555;
+}
+.BText04 {
+    margin-bottom: 10px;
+    font-size: 140%;
+    color: #961e1ebf;
+}
+.MPSICon {
+    width: 30%;
+}
+.MPCWSec {
+    width: 70%;
+    padding-left: 8px;
+}
+.BText05 {
+    font-size: 115%;
+    color: #8e0e0edb;
+    margin-bottom: 8px;
+}
+.mFoot {
+	padding-left: 2%;
+}

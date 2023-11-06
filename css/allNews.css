@@ -1,0 +1,37 @@
+.bgCrText {
+    background-color: #fbeed7ab;
+    font-size: 130%;
+    font-weight: 600;
+    padding: 10px 0 10px 3%;
+}
+.newsCard {
+    display: inline-block;
+    width: 23%;
+    margin: 2% 1%;
+    float: left;
+}
+.imgCon {
+    height: 190px;
+}
+.newContSec {
+    padding: 15px;
+    background-color: #eeeeee;
+    height: 200px;
+}
+.newType {
+    color: darkred;
+    font-size: 120%;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+.newsTopic {
+	color: black;
+    font-size: 105%;
+    margin-bottom: 10px;
+}
+.newsBrief {
+    color: #636262;
+    font-size: 95%;
+    font-weight: 100;
+    line-height: 1.2;
+}

@@ -1,0 +1,406 @@
+body {
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing : border-box;
+	margin: 0;
+	padding: 0;
+    font-family: 'Hind Siliguri', sans-serif;
+}
+*, ::before, ::after {
+	box-sizing: inherit;
+	-webkit-box-sizing: inherit;
+	-moz-box-sizing: inherit;
+}
+a {
+	text-decoration: none;
+}
+ul {
+    padding: 0;
+}
+li {
+	list-style-type: none;
+}
+header {
+	position: relative;
+}
+.clearing {
+	clear: both;
+}
+.imageCover {
+    width: 100%;
+    height: 100%;
+}
+#bgImg {
+	background-image: url('../images/artFacultyBuilding.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	width: 100%;
+}
+.overlay01 {
+    background-color: rgba(0,0,0,.3);
+}
+.topHead {
+    padding: 10px 1%;
+    color: white;
+    background-image: linear-gradient(#3c3e3c, transparent);
+}
+.mTopHead {
+    display: none;
+}
+.topHeadL {
+    font-size: 200%;
+    margin: 2% 32% 0 2%;
+    color: white;
+    margin-top: 38px;
+}
+.normLinks {
+    color: white;
+    margin: 0 0.3% 9px;
+    letter-spacing: 0.3px;
+    padding-bottom: 5px;
+}
+.normLinks:hover {
+    color: black;
+}
+.borderL {
+    border-left: 1px solid #4fc54f;
+    padding: 2px 0.5%;
+}
+.searchBox {
+    background-color: rgba(0,0,0,.5);
+    padding: 6px;
+    border-radius: 10px;
+}
+.searchFont {
+	color: white;
+}
+.genSearch {
+    width: 8%;
+    border: none;
+    background-color: transparent;
+}
+.normNav {
+    padding: 0 1% 0 0%;
+    color: white;
+    width: 55%;
+    float: right;
+}
+.uniList {
+    display: inline;
+}
+.uniNav {
+    width: 10%;
+    font-size: 130%;
+    color: white;
+    padding: 0 1%;
+}
+.uniNav:hover {
+	color: black;
+	border-bottom: 3px solid black;
+	padding-bottom: 5px;
+}
+#normLogo {
+    width: 50%;
+    margin: 12% auto;
+    padding-right: 5%;
+}
+
+#exploreLink {
+	width: 10%;
+	color: #4fc54f;
+    font-size: 80%;
+    position: absolute;
+    bottom: 0;
+    left: 45%;
+    text-align: center;
+}
+
+.slideUpFont {
+    width: 10%;
+    font-size: 50%;
+}
+.bgPad {
+    padding: 2% 4.5% 3.5%;
+}
+.bgcCream {
+    background-color: #f7f3ed;
+}
+.bgcDarkwheat {
+    background-color: #9a8c88;
+}
+.topic01 {
+    width: 20%;
+    margin: auto;
+    font-size: 200%;
+    font-weight: 700;
+    text-align: center;
+}
+.writeUp01 {
+    width: 50%;
+    margin: 0 auto 2.5%;
+    text-align: center;
+    line-height: 1.4;
+}
+#news01 {
+    width: 49%;
+    float: left;
+    display: inline-block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    height: 300px;
+    margin-right: 1%;
+}
+#news02 {
+}
+#news03 {
+
+}
+.News01Desc {
+    margin-top: 200px;
+    color: white;
+    height: 100px;
+    padding: 0 15px;
+    background-image: linear-gradient(transparent, black);
+}
+.NDtype01 {
+    color: white;
+    font-size: 150%;
+    padding-bottom: 10px;
+}
+.newsCard {
+    width: 24%;
+    float: left;
+    margin: 0 0.5%;
+    cursor: pointer;
+    box-shadow: 3px 3px 3px #949191;
+    height: 300px;
+    background-color: white;
+    display: inline-block;
+}
+.IPWNews {
+    color: white;
+    letter-spacing: 1.01px;
+}
+.newsImg {
+	width: 100%;
+	height: 160px;
+}
+.newsDesc01 {
+    padding: 10px;
+}
+.newsDesc {
+    color: #5f5d5d;
+    font-size: 90%;
+}
+.NDtype {
+    color: black;
+    font-size: medium;
+    font-weight: 600;
+    margin-bottom: 10px;
+
+}
+.NDcontent {
+    max-height: 75px;
+}
+.centerText {
+    width: 30%;
+    margin: 45px auto 0;
+    text-align: center;
+}
+.moreFeed {
+    color: white;
+    background-color: black;
+    padding: 7px 14px;
+    font-size: 110%;
+}
+.midSec {
+	margin: 20px 0;
+}
+#eventSec {}
+.eventCard {
+    float: left;
+    width: 23%;
+    height: 350px;
+    margin: 0 0.5%;
+    background-color: white;
+    position: relative;
+}
+
+.eventDate {
+    position: absolute;
+    bottom: 160px;
+    background-color: #9a8c88;
+    padding: 10px;
+    margin-left: 10px;
+    color: white;
+}
+.EDmonth {
+    font-size: 120%;
+}
+.eventDesc {
+    margin-top: 30px;
+    padding: 10px;
+}
+.Etime {
+    margin-top: 30px;
+    font-size: 80%;
+    color: grey;
+}
+.academicSec {
+    width: 33%;
+    float: left;
+    padding-right: 25px;
+}
+.AcademicImg {
+    width: 100%;
+    height: 200px;
+}
+
+.educate {
+    margin: 5px 0 30px;
+}
+.magT {
+    margin-top: 15px;
+}
+.moreAcademi {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.MAlist {
+    font-size: 110%;
+    padding: 0 5px;
+}
+.MAlist:hover {
+    color: black;
+}
+.inspire {
+    width: 100%;
+    height: 550px;
+    background-color: #000000
+}
+.CampusSecL {
+    width: 45%;
+    background-color: white;
+    margin: 10px 0;
+    float: left;
+    height: 100px;
+}
+.CampusSecR {
+    width: 45%;
+    background-color: white;
+    margin: 10px 0;
+    float: right;
+    height: 100px;
+}
+.floatL {
+    float: left;
+}
+.floatR {
+    float: right;
+}
+.campusImg {
+    width: 50%;
+}
+.edgeImg {
+    width: 10%;
+}
+.CSlink {
+    width: 50%;
+    padding: 45px;
+    text-align: center;
+}
+.CI01 {
+    background-image: url('../images/swimming.jpg');
+}
+.CI02 {
+    background-image: url('../images/artImg.jpg');
+}
+.CI03 {
+    background-image: url('../images/library.jpg');
+}
+.CI04 {
+    background-image: url('../images/studentLife.jpg');
+}
+.CI05 {
+    background-image: url('../images/hospital.jpg');
+}
+.CI06 {
+    background-image: url('../images/religious.jpg');
+}
+.CImage {
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+.admissionSec {
+    width: 50%;
+    height: 285px;
+    margin-bottom: 20px;
+}
+.mountImg {
+    background-image: url('../images/mountainImg.jpg');
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    color: white;
+}
+.ASMtop {
+    margin-top: 100px;
+}
+.aboutSec {
+    border-top: 1px solid white;
+    padding: 30px 0;
+}
+.AScont {
+    width: 33%;
+    display: inline-block;
+    text-align: center;
+}
+.AStext {
+    font-size: 150%;
+}
+.DGcolor {
+    background-color: #484747;
+}
+.LText {
+    font-size: 80%;
+    color: #bbbaba;
+    padding: 5px 0;
+    display: inline-block;
+}
+.footLink {
+    width: 16%;
+    float: left;
+    padding-left: 2%;
+}
+.FFimg {
+    width: 30%;
+    padding-right: 10%;
+    padding-left: 3%;
+}
+.BBorder {
+    border-top: 1px solid #2d2c2c;
+    margin-top: 20px;
+}
+.fontSec {
+    color: white;
+    text-align: center;
+    margin: 15px 0;
+}
+.SText {
+    font-size: 150%;
+    padding-left: 2%;
+    color: #b9b8b8;
+    font-weight: 700;
+}
+.Mright {
+    margin-right: 10%;
+}
+.socialFonts {
+    font-size: 150%;
+    padding: 5px;
+}

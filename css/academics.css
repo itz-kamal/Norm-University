@@ -1,0 +1,167 @@
+.mTopHead {
+    display: none;
+}
+.ATHUICon {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    width: 33.3%;
+    height: 350px;
+}
+.Aoverlay01 {
+	background-color: rgba(0,0,0,.3);
+	height: 350px;
+}
+.ABGImg1 {
+	background-image: url('../images/studentOnCampus.jpg');
+}
+.ABGImg2 {
+	background-image: url('../images/graduateEdu.jpg');
+}
+.ABGImg3 {
+	background-image: url('../images/disableLibrary.jpg');
+}
+.AEBText {
+    padding-top: 230px;
+    color: white;
+    text-align: center;
+    font-size: 135%;
+}
+.AWUPSec {
+    padding: 4% 15%;
+}
+.APBText01 {
+    text-align: center;
+    font-size: 180%;
+    margin-bottom: 15px;
+    color: darkred;
+    letter-spacing: 1.1px;
+}
+.APSText01 {
+    line-height: 1.3;
+    color: #383737;
+}
+.ABTSec {
+    text-align: center;
+    background-color: darkred;
+    color: white;
+    padding: 2% 0;
+    font-size: 140%;
+}
+.APSText02 {
+    width: 10%;
+    margin: 0 auto;
+    border: 1px solid white;
+    padding: 10px;
+    margin-top: 8px;
+    font-size: 65%;
+}
+.AMUSec {
+    padding: 5% 6%;
+}
+.AUSDSecL {
+    display: block;
+    width: 45%;
+    background-color: #eeeeee;
+    margin-bottom: 55px;
+    height: 490px;
+    float: left;
+}
+.AUSDSecR {
+    display: block;
+    width: 45%;
+    background-color: #eeeeee;
+    margin-bottom: 55px;
+    height: 490px;
+    float: right;
+}
+.AUSICon {
+    height: 250px;
+}
+.AUSTDiv {
+    margin: 22px 30px;
+    font-size: 115%;
+    color: darkred;
+}
+.AUSWUp {
+    padding: 0 30px;
+    font-size: 89%;
+    line-height: 1.3;
+    color: #615f5f;
+}
+.AUSMCon {
+    margin: 20px 0 0 30px;
+    padding: 15px;
+    border: 1px solid darkred;
+    width: 42%;
+    color: darkred;
+}
+.bgCDRed {
+    background-color: #923535;
+}
+.padSec {
+    padding: 3% 8%;
+}
+.AFRest01 {
+    border: 1px solid darkred;
+    padding: 3px;
+}
+.ASISecL {
+    display: block;
+    width: 45%;
+    margin: 2%;
+    float: left;
+}
+.ASISSentR {
+    width: 45%;
+    margin: 3%;
+    color: white;
+    float: right;
+}
+.ASOText {
+    margin-top: 10px;
+    font-size: 85%;
+    color: #520202;
+}
+.AIPSec {
+    padding: 4% 12%;
+    text-align: center;
+}
+.APBext02 {
+    font-size: 120%;
+    margin-bottom: 25px;
+    color: darkred;
+}
+.AIPBBGmL {
+    width: 25%;
+    background-color: darkblue;
+    color: white;
+    padding: 20px 0;
+    height: 90px;
+    float: left;
+}
+.AIPRBGmR {
+    width: 25%;
+    background-color: darkred;
+    color: white;
+    padding: 20px 15px;
+    height: 90px;
+    float: left;
+}
+.APMText01 {
+    font-size: 90%;
+    padding-bottom: 11px;
+}
+.APSText03 {
+    font-size: 85%;
+}
+.APSText04 {
+    margin-top: 25px;
+    color: gray;
+    font-size: 92%;
+}
+.AMUSec {
+    padding: 5% 4%;
+    padding-bottom: 2%;
+}
+

@@ -1,0 +1,47 @@
+form {
+    margin: 10px 0;
+}
+#SSUinput {
+    display: block;
+    padding: 1% 2%;
+}
+.TOApp {
+    width: 47%;
+    line-height: 1.2;
+    padding: 10px;
+    background-color: darkred;
+    color: white;
+    font-size: 120%;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-bottom: 2%;
+}
+.LSAQuery {
+    width: 90%;
+    margin-bottom: 18px;
+    font-size: 102%;
+}
+.RSAQuery {
+	width: 90%;
+    margin-bottom: 18px;
+    font-size: 102%;
+}
+.QHead {
+    width: 35%;
+    display: inline-block;
+}
+.TQInput {
+    width: 40%;
+    padding: 5px;
+    border: 1px solid #adaaaa;
+    border-radius: 5px;
+}
+.NQInput {
+    width: 40%;
+    padding: 5px;
+    border: 1px solid #adaaaa;
+    border-radius: 5px;
+}
+.subBtn {
+    margin-left: 10px;
+}

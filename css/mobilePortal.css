@@ -1,0 +1,55 @@
+.clearing {
+	clear: both;
+}
+.bigPordetail, .bigPorHead, .closeMenu {
+	display: none;
+}
+#closeX {
+	font-weight: 700;
+}
+.mPorDetail {
+	display: none;
+    position: absolute;
+}
+ .mPorHead {
+ 	display: block;
+ }
+ #TRHead {
+    background-color: darkred;
+    color: white;
+    padding: 15px;
+}
+.menuIcon {
+    float: left;
+    width: 7%;
+    font-size: 135%;
+    cursor: pointer;
+}
+.mSchool {
+    float: left;
+    width: 66%;
+    text-align: center;
+    font-size: 130%;
+}
+.mStuName {
+    width: 27%;
+    text-align: center;
+    float: right;
+    font-size: 80%;
+    padding-top: 1%;
+}
+.GBg {
+    background-color: #eeeeee;
+    position: relative;
+}
+.LSPSSSec {
+    width: 38%;
+}
+.RSPSSSec {
+    width: 100%;
+    background-color: white;
+    padding-bottom: 20px;
+}
+.ISPFunc {
+    width: 23%;
+}

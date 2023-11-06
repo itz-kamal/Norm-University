@@ -1,0 +1,31 @@
+.CMPICon {
+    margin: 20px 5%;
+    height: 420px;
+}
+.CMPLDSecs {
+    padding: 0 5% 35px 5%;
+}
+
+.CMLDivsL {
+    width: 32%;
+    margin-right: 2%;
+    float: left;
+}
+.CMLISec {
+    height: 250px;
+}
+.RCMLDivsR {
+    width: 32%;
+    float: right;
+}
+.CMLBText01 {
+    margin: 15px 0;
+    font-size: 130%;
+    color: darkred;
+}
+.CMLSText01 {
+    font-size: 95%;
+    line-height: 1.4;
+    color: gray;
+    margin-bottom: 10px;
+}
